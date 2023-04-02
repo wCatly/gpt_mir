@@ -1,0 +1,11 @@
+{
+  
+    "script_entry" : "LeagueGPT.dll",
+    "display_name" : "LeagueGPT",
+    "script_uuid" : "f257efe1-7895-41d1-a3f0-4ce83427951b",
+    "author" : "wcat",
+    "version" : "1.1.1",
+    "icon" : "logo.png",
+    "enabled_by_defualt" : true,
+    "search_tags" : "chatbot;ai;openai;wcat;gpt;l9;"
+  }

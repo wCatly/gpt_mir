@@ -1,0 +1,56 @@
+{
+    "OpenAI_Settings": {
+        "ai_model": "gpt-4",
+        "api_key": "YOUR_API_KEY_HERE (sk-...IDvB)",
+        "temp_slider_val": 0.5
+    },
+    "ai_settings": {
+        "ai_select": 0,
+        "enable_ai": true
+    },
+    "chat_settings": {
+        "chat_on_die": false,
+        "chat_select": 0
+    },
+    "game_event_settings": [
+        {
+            "prompt": "AI, on League of Legends the game has just started. Please provide any helpful tips or strategies for the beginning stage of the game.",
+            "use": false
+        },
+        {
+            "prompt": "AI, on League of Legends we've won the game! What were the key factors that contributed to our victory and what can we learn from this match for future games?",
+            "use": false
+        },
+        {
+            "prompt": "AI, on League of Legends we've lost the game. Can you provide an analysis of what went wrong and suggestions on how to improve our performance next time?",
+            "use": false
+        },
+        {
+            "prompt": "AI, on League of Legends I have just died in the game. What mistakes did I make leading up to my death, and how can I avoid making them in the future?",
+            "use": false
+        },
+        {
+            "prompt": "AI, on League of Legends we have successfully killed an important object such as Dragon or Baron. What benefits does this bring to our team, and how can we use it to our advantage?",
+            "use": false
+        },
+        {
+            "prompt": "AI, on League of Legends a surrender vote has been initiated. Can you provide an assessment of our current game state and the chances of a comeback if we continue playing?",
+            "use": false
+        },
+        {
+            "prompt": "AI, on League of Legends our team has decided to surrender. What were the main reasons for this decision, and how can we avoid reaching this point in future games?",
+            "use": false
+        },
+        {
+            "prompt": "AI, on League of Legends our team's surrender vote has failed. What steps can we take to try and turn the game around and potentially secure a victory despite our current situation?",
+            "use": false
+        }
+    ],
+    "prompt_settings": {
+        "custom_ignore_key": "Skip",
+        "prompt_select": 0,
+        "prompt_text": "You are a young girl age 15 who plays league of legends everyday and doesn't leave home or go school, you are impatient but cute and slightly annoying. You are playing Anivia. Your answers are short because you're in the middle of the game and cannot waste time writing properly. No commas. No proper grammar.",
+        "use_community_prompts": true,
+        "use_on_game_events": false
+    }
+}
